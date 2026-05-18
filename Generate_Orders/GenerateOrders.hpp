@@ -26,7 +26,7 @@ private:
     void modifyStop();
     void addStopLimit();
     void cancelStopLimit();
-    
+    void modifyStopLimit();
 
 public:
     GenerateOrders(Book* book);
